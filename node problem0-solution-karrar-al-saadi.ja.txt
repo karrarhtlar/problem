@@ -1,0 +1,5 @@
+item is eater	 postion -1
+item is egg	 postion 2
+item is apple	 postion 1
+item is banana	 postion 0
+item is kabab	 postion -1
